@@ -1,0 +1,1 @@
+Phonics Fun for Kids. Upload index.html to a static website host. The games are interactive and use English browser speech when supported.
